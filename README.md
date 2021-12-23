@@ -1,7 +1,6 @@
 # Dominatrix
 Fweak's tool rewritten in node. Disables discord account temporarily until the owner changes password.
 
-![dominatrix](dominatrix.png)
 ### How to use?
 - got to <a href="https://github.com/settings/tokens">Github>settings>developer settings</a>
 - create a <a href="https://imgur.com/jEQlENZ">Personal Access Token</a> with repo and delete-repo access
